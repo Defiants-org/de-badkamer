@@ -1,0 +1,7 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+<body data-spy="scroll" data-target="#primary-menu">
+{{ content }}
+</body>
+</html>
